@@ -1,13 +1,14 @@
 {
   "name": "TraceMate",
   "short_name": "TraceMate",
+  "description": "TraceMate is a minimal, lag-free image tracing workspace.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#09090b",
   "theme_color": "#09090b",
   "icons": [
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%2309090b' stroke='%2327272a' stroke-width='6'/%3E%3Cpath d='M 140 340 C 140 180, 256 120, 256 256 C 256 392, 372 332, 372 172' fill='none' stroke='%236366f1' stroke-width='36' stroke-linecap='round'/%3E%3Cpath d='M 140 340 C 140 180, 256 120, 256 256 C 256 392, 372 332, 372 172' fill='none' stroke='%23ffffff' stroke-width='12' stroke-linecap='round'/%3E%3Ccircle cx='140' cy='340' r='24' fill='%2318181b' stroke='%236366f1' stroke-width='12'/%3E%3Ccircle cx='256' cy='256' r='24' fill='%2318181b' stroke='%238b5cf6' stroke-width='12'/%3E%3Ccircle cx='372' cy='172' r='24' fill='%2318181b' stroke='%23a855f7' stroke-width='12'/%3E%3C/svg%3E",
+      "src": "./assets/icon.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
