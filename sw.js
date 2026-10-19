@@ -1,4 +1,4 @@
-const CACHE_NAME = "tracemate-v3";
+const CACHE_NAME = "tracemate-v4";
 
 const ASSETS = [
   "./",
