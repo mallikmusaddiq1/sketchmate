@@ -4,7 +4,8 @@ const ASSETS = [
   "./",
   "./index.html",
   "./lib/localforage.min.js",
-  "./assets/icon.svg",
+  "./assets/icon.png",
+  "./assets/icon-1.png",
   "./manifest.json"
 ];
 
