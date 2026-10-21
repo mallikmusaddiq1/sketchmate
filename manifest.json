@@ -1,7 +1,7 @@
 {
-  "name": "TraceMate",
-  "short_name": "TraceMate",
-  "description": "TraceMate is a minimal, lag-free image tracing workspace.",
+  "name": "SketchMate",
+  "short_name": "SketchMate",
+  "description": "SketchMate is a minimal, lag-free image tracing workspace.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#09090b",
